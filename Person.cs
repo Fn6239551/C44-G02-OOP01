@@ -8,7 +8,7 @@ namespace solv_of_OOP1
 {
     internal struct Person
     {
-        // 2.Define a struct "Person" with properties "Name" and "Age". 
+        // Define a struct "Person" with properties "Name" and "Age". 
         
             public string name ;
             public int age ;
